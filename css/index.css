@@ -1,0 +1,57 @@
+.column {
+    float: left;
+    height: 90vh;
+}
+
+.left {
+    width: 30%;
+    background-color: rgb(40, 80, 70);
+}
+
+.right {
+    width: 70%;
+}
+
+.left-title {
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    margin-left: 1vw;
+    color: whitesmoke;
+    font-size: 1.4vw;
+}
+
+.left-article {
+    margin-left: 1vw;
+    width: 80%;
+    color: whitesmoke;
+    font-size: 1vw;
+}
+
+h3 {
+    margin-top: 2vh;
+    margin-left: 1vw;
+    margin-bottom: 1vh;
+    color: whitesmoke;
+    font-size: 1.2vw;
+}
+
+h5 {
+    margin-bottom: 0.1vh;
+    font-size: 1vw;
+    color: white;
+}
+
+ul {
+    margin-left: 1vw;
+    margin-bottom: 1vh;
+}
+
+li {
+    display: inline;
+    color: whitesmoke;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
